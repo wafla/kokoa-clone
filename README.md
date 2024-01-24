@@ -7,6 +7,7 @@ https://nomadcoders.co/kokoa-clone
 
 #화면 구성
 ![image](https://github.com/wafla/kokoa-clone/assets/50083524/f7d2f06a-a3ad-4024-a770-c11f304628b8)
+<img src="https://github.com/wafla/kokoa-clone/assets/50083524/f7d2f06a-a3ad-4024-a770-c11f304628b8" width=100 height=200>
 ![image](https://github.com/wafla/kokoa-clone/assets/50083524/95fd4b8f-0747-4aec-859c-734115b2cade)
 ![image](https://github.com/wafla/kokoa-clone/assets/50083524/957280ba-a83c-47cc-a613-aff5749aab0d)
 ![image](https://github.com/wafla/kokoa-clone/assets/50083524/b6a78ffa-16ac-4f6a-bc02-a02b29b7068d)
@@ -18,10 +19,10 @@ https://nomadcoders.co/kokoa-clone
 
 #주요 기능
 
-접속 화면 애니메이션
+접속 화면, 채팅 알림 애니메이션
 ![Intro](https://github.com/wafla/kokoa-clone/assets/50083524/8906f321-3d2b-435d-b645-17e612586f66)
 
-채팅 표시 애니메이션
+채팅 화면 애니메이션
 ![chat](https://github.com/wafla/kokoa-clone/assets/50083524/01b75ffa-c459-4df5-a506-56288b0d5222)
 
 채팅 입력 애니메이션
