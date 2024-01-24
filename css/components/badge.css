@@ -1,0 +1,20 @@
+.badge{
+    background-color:tomato;
+    width:30px;
+    height:30px;
+    border-radius:15px;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+    font-weight:600;
+}
+.badge-s{
+    width:5px;
+    height:5px;
+}
+.badge__position__gear{
+    position:absolute;
+    right:30px;
+    top:36px;
+}
