@@ -5,19 +5,18 @@
 다음 강의를 참고하여 만들었습니다.
 https://nomadcoders.co/kokoa-clone
 
-#화면 구성
-![image](https://github.com/wafla/kokoa-clone/assets/50083524/f7d2f06a-a3ad-4024-a770-c11f304628b8)
-<img src="https://github.com/wafla/kokoa-clone/assets/50083524/f7d2f06a-a3ad-4024-a770-c11f304628b8" width=100 height=200>
-![image](https://github.com/wafla/kokoa-clone/assets/50083524/95fd4b8f-0747-4aec-859c-734115b2cade)
-![image](https://github.com/wafla/kokoa-clone/assets/50083524/957280ba-a83c-47cc-a613-aff5749aab0d)
-![image](https://github.com/wafla/kokoa-clone/assets/50083524/b6a78ffa-16ac-4f6a-bc02-a02b29b7068d)
-![image](https://github.com/wafla/kokoa-clone/assets/50083524/5c7a118a-82a9-4f9a-8db0-8d28ccb12e18)
-![image](https://github.com/wafla/kokoa-clone/assets/50083524/27e7da5b-87b4-47a9-8bf8-510bf337b1d4)
-![image](https://github.com/wafla/kokoa-clone/assets/50083524/7fef1243-a6ea-4cd4-b1b2-d4950573a825)
+## 화면 구성
+<img src="https://github.com/wafla/kokoa-clone/assets/50083524/f7d2f06a-a3ad-4024-a770-c11f304628b8" width=200 height=400>
+<img src="https://github.com/wafla/kokoa-clone/assets/50083524/95fd4b8f-0747-4aec-859c-734115b2cade" width=200 height=400>
+<img src="https://github.com/wafla/kokoa-clone/assets/50083524/957280ba-a83c-47cc-a613-aff5749aab0d" width=200 height=400>
+<img src="https://github.com/wafla/kokoa-clone/assets/50083524/b6a78ffa-16ac-4f6a-bc02-a02b29b7068d" width=200 height=400>
+<img src="https://github.com/wafla/kokoa-clone/assets/50083524/5c7a118a-82a9-4f9a-8db0-8d28ccb12e18" width=200 height=400>
+<img src="https://github.com/wafla/kokoa-clone/assets/50083524/27e7da5b-87b4-47a9-8bf8-510bf337b1d4" width=200 height=400>
+<img src="https://github.com/wafla/kokoa-clone/assets/50083524/7fef1243-a6ea-4cd4-b1b2-d4950573a825" width=200 height=400>
 
 
 
-#주요 기능
+## 주요 기능
 
 접속 화면, 채팅 알림 애니메이션
 ![Intro](https://github.com/wafla/kokoa-clone/assets/50083524/8906f321-3d2b-435d-b645-17e612586f66)
