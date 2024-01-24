@@ -18,7 +18,7 @@ https://nomadcoders.co/kokoa-clone
 
 ## 주요 기능
 
-접속 화면, 채팅 알림 애니메이션
+접속 화면 애니메이션
 ![Intro](https://github.com/wafla/kokoa-clone/assets/50083524/8906f321-3d2b-435d-b645-17e612586f66)
 
 채팅 화면 애니메이션
@@ -27,7 +27,7 @@ https://nomadcoders.co/kokoa-clone
 채팅 입력 애니메이션
 ![chat_input](https://github.com/wafla/kokoa-clone/assets/50083524/c44f414d-7b26-40f0-ae56-b7f2be40ce5c)
 
-하트 애니메이션
+하트, 채팅 알림 애니메이션
 ![heart](https://github.com/wafla/kokoa-clone/assets/50083524/048edcd4-76c2-4bb4-b582-d71ce5dddde9)
 
 기어 애니메이션
