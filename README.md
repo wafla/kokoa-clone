@@ -3,6 +3,7 @@
 카카오톡 UI를 HTML과 CSS를 활용하여 만들어 봤습니다.
 
 다음 강의를 참고하여 만들었습니다.
+
 https://nomadcoders.co/kokoa-clone
 
 ## 화면 구성
