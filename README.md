@@ -6,6 +6,8 @@
 
 https://nomadcoders.co/kokoa-clone
 
+접속 링크 : https://wafla.github.io/kokoa-clone/
+
 ## 화면 구성
 <img src="https://github.com/wafla/kokoa-clone/assets/50083524/f7d2f06a-a3ad-4024-a770-c11f304628b8" width=200 height=400>
 <img src="https://github.com/wafla/kokoa-clone/assets/50083524/95fd4b8f-0747-4aec-859c-734115b2cade" width=200 height=400>
